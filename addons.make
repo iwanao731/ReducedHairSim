@@ -1,0 +1,6 @@
+ofxHEMesh
+ofxMeshUtil
+ofxNearestNeighbour
+ofxRay
+ofxUI
+ofxXmlSettings
